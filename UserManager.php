@@ -29,7 +29,8 @@ class AdminUser extends BaseUser {
 
     // Overriding method (Protected/Public methods bisa di-override)
     public function showKeyStatus(): void {
-        echo "AdminUser Status: Key berhasil diwarisi dan diakses.\n";
+        echo "AdminUser Status: Key berhas
+        il diwarisi dan diakses.\n";
     }
 }
 ?>
